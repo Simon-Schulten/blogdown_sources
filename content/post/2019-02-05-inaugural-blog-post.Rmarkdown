@@ -1,0 +1,17 @@
+---
+title: Inaugural Blog Post
+author: Simon C. Schulten
+date: '2019-02-05'
+slug: inaugural-blog-post
+categories: []
+tags: []
+---
+
+"Why write a blog as a PhD student?", you may ask. Do PhD student not have enough on their plate with study and research alone? Who reads these obscure blogs, anyways? It seems futile.  
+I think these are legitimite concerns and yet I am starting a blog. So let me address these questions in my first posting, if anything to set some goals for my attempt at blogging.  
+
+It is true, my day is full enough. On top of that, I find it hard to believe that the majority of the things I am going to write down here will be of use to a majority of people out there. However, it is not a necessary condition to write the most insightful blog posts that reach a large number of people.  
+
+It is far more important that I personally derive some utility from writing this blog. Don't get me wrong, reaching a lot of people may yield considerable utility, but for the moment I am focussing on a few other things. Mainly, I want to practice writing and what better way is there, than to write about topics that are of interest to me. In my boldest hopes, I write blog posts about topics that I am currently thinking about. Writing things down, additionally to discussing it with other, say, over lunch, does two things for me. First, it forces me to organise my thoughts and be a bit more coherent (my blog is public after all!). And second, it gives me a way to go back and take a look at what I used to be interested in. I think this second reason may turn out to be quite valuable in the future, when I recount my days as a grad student. To illustrate, just think back to your childhood. Can you remember what you were interested in for a brief 3 month period? I can't, becaue I did not like writing things down when I was little. But had I kept a journal back then, it would be much easier to recall today! I guess you can take this blog as my academic journal, where I attempt to write down things that interest me.
+
+Apart this personal motivation to keep a blog, there is of course still the point of reach. The other day I came across the notion that the internets far reach brings an audience to even the obscurest undertakings. I think this was [Frank Riegers](https://twitter.com/frank_rieger) argument why he finds it is impossible to successfully found a new political party. I am not sure this assessment of our democratic process is entirely correct. But hopefully, someone is out there who may actually stumble across my blog and enjoy it, too!

@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A minimal Hugo website"
+title = "Simon Says!"
 theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
@@ -26,4 +26,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "Built on Xmin by [Yihui Xie](https://github.com/yihui/hugo-xmin)"
+    footer = "&copy; [S.C. Schulten](http://simon-schulten.netlify.com) 2019"
