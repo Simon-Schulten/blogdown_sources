@@ -23,23 +23,12 @@ It is true, my day is full enough.</description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015/07/23/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>Welcome to my personal website!</title>
+      <title>About Me</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>My name is Simon Schulten and I am a first year PhD student at DICE where I study economics and hope to work on topics related to market design and behavioural economics. I also hope to produce some blog posts on topics of interest to me (and hopefully you!)</description>
+      <description>My name is Simon Schulten and I am a first-year PhD student at DICE where I study economics and hope to work on topics related to market design and behavioural economics. I also hope to produce some blog posts on topics of interest to me (and hopefully you!).</description>
     </item>
     
   </channel>

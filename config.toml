@@ -13,13 +13,13 @@ footnotereturnlinkcontents = "↩"
     note = "/note/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Home"
+    name = "About"
     url = "/about/"
-    weight = 1
+    weight = 2
 [[menu.main]]
     name = "Blog"
     url = "/"
-    weight = 2
+    weight = 1
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/SchultenSimon"
