@@ -14,24 +14,16 @@ footnotereturnlinkcontents = "↩"
 
 [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "/about/"
     weight = 1
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Blog"
+    url = "/"
     weight = 2
 [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 3
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 4
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
+    name = "Twitter"
+    url = "https://twitter.com/SchultenSimon"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017 -- 2018 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+    footer = "Built on Xmin by [Yihui Xie](https://github.com/yihui/hugo-xmin)"
