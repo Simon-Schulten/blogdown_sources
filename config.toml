@@ -27,6 +27,7 @@ footnotereturnlinkcontents = "↩"
 [params]
     description = "A website built through Hugo and blogdown."
     footer = "&copy; [S.C. Schulten](http://simon-schulten.netlify.com) 2019 | [Impressum](simon-schulten.netlify.com/impressum)"
+    author = "Simon C. Schulten"
 
 [privacy]
   [privacy.disqus]

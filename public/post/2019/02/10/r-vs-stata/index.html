@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>R vs. Stata | Simon Says!</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+<h1 style = "text-align: center">
+<a href="http://simon-schulten.netlify.com/">
+    <img src="/logo.png" />
+</a>
+</h1>
+
+</a>
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Blog</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="https://twitter.com/SchultenSimon">Twitter</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">R vs. Stata</span></h1>
+<h2 class="author">Simon C. Schulten</h2>
+<h2 class="date">2019/02/10</h2>
+</div>
+
+<main>
+
+
+<p>Recently, there has been a lot of chatter on #EconTwitter about statistical programming software. Stata users defended themselves for not switching to more powerful technology, while R users were pointing out all the benefits of their beloved programming language.<br />
+Basically, every point worth making has been made (though not by everyone). However, I feel there is a lot of misunderstanding between the two sides. As John Horton pointed out in a brilliant subtweet, people seem to assume their use of technology is best, and all other are wrong.
+<strong><em>Insert Horton Tweet here</em></strong></p>
+
+<p>So instead of giving my own two cents about which statistical programming language to use (R, of course!), let me try to summarise and sort through the arguments. The way I see the R vs. Stata discussion it has two dimensions. On one hand, there is the individual decision which software to use. On the other hand, there is the decision which software to teach, which has implications beyond personal preference.</p>
+
+<h3 id="the-individual-as-statistical-programmer">The Individual as Statistical Programmer</h3>
+
+<p>The individual decision whether to use R or Stata depends on a number of things. Apart from personal preferences over things like IDE environment (emacs vs. vim, anyone?) a few arguments were made. For example, many avid Stata users pointed out that Stata is used by many (majority?) doing social sciences in academia. That makes it hard to switch to R given that your co-authors probably will not switch as well. There are the obvious exceptions of solo-authored work and strict division of labor. However, I think this argument was well taken. After all, retooling is hindered by the concept of switching cost and those costs are obviously higher if switching to R introduces coordination problems with coauthors.<br />
+Another line of argument seems to be that Stata does everything the odd social scientist needs. Many widely used regression models are already implemented and you can estimate more complicated models via the maximum likelyhood method. Basically, Stata users are saying &ldquo;Stata is easy to use and does all the things we need&rdquo; here, while R is perceived as complicated. The perception of R being complicated is surely driven by base R, which can be intimidating at times and does not guide its users very much at all in programming (ever called your dataframe one of the built in functions, like say, data?). Obviously, R users pointed out the existence of the tidyverse packages, but that does not do much for lowering perceived or actual switching costs.<br />
+A generally accepted argument seems to be that one programming language can do things the other can&rsquo;t. Someone pointed out Stata&rsquo;s limitation in terms of non-rectangular data structures, not to mention its inability to load more than one data set. Apparantly, Stata is therefore an inept choice for spatial statistics, but it seems to me spatial analysis is a small niche - at least in economics.<br />
+All in all, I don&rsquo;t think many people will switch from Stata to R because of the Twitter discussion. What statistical programming language you use is, and will continue to be, driven by what you already know. Switching to a different tool is just too costly in terms of short term productivity and everybody seems to have enough on their plate anyways.</p>
+
+<h3 id="the-individual-as-a-teacher-of-statistical-programming">The Individual as a Teacher of Statistical Programming</h3>
+
+<p>If everyone is using Stata because it is what they already know this raises the question whehter we should start teaching R in the econometrics sequence (or statistics sequence or whatever else you may call it if you are not an economist). Basically, we are asking if this Stata equilibrium is efficient - because I have not seen arguments that the Stata equilibrium is unique.</p>
+
+<p><strong>Insert Südekums Excel Joke here</strong></p>
+
+</main>
+
+  <footer>
+  <script src="//yihui.name/js/math-code.js"></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+  
+  <hr/>
+  &copy; <a href="http://simon-schulten.netlify.com">S.C. Schulten</a> 2019 | <a href="simon-schulten.netlify.com/impressum">Impressum</a>
+  
+  </footer>
+  </body>
+</html>
+

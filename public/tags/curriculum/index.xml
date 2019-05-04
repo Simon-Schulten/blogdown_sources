@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curriculum on Simon Says!</title>
+    <link>/tags/curriculum/</link>
+    <description>Recent content in Curriculum on Simon Says!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/curriculum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R vs. Stata</title>
+      <link>/post/2019/02/10/r-vs-stata/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/02/10/r-vs-stata/</guid>
+      <description>Recently, there has been a lot of chatter on #EconTwitter about statistical programming software. Stata users defended themselves for not switching to more powerful technology, while R users were pointing out all the benefits of their beloved programming language.
+Basically, every point worth making has been made (though not by everyone). However, I feel there is a lot of misunderstanding between the two sides. As John Horton pointed out in a brilliant subtweet, people seem to assume their use of technology is best, and all other are wrong.</description>
+    </item>
+    
+  </channel>
+</rss>

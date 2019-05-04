@@ -6,10 +6,19 @@
     <description>Recent content in Blogposts on Simon Says!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mistaken Rules</title>
+      <link>/post/2019/05/04/mistaken-rules/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/05/04/mistaken-rules/</guid>
+      <description>Recently I learnt that a regulation I would have welcomed as an undergraduate at the University of Mannheim actually exists at the University of Cologne. In Cologne coursework that is completed during a semester abroad can be counted toward the degree albeit on a pass-fail basis rather than graded. This, presumably, levels the playing field between different partner (or even non-partner) institutions with regard to academic rigor and grading cultures. I would have welcomed such a rule as an undergraduate as I had a hard time reconciling these vast differences.</description>
+    </item>
     
     <item>
       <title>Impressum</title>
@@ -47,8 +56,8 @@ Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Rich
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/2019/02/05/inaugural-blog-post/</guid>
-      <description>&amp;ldquo;Why write a blog as a PhD student?&amp;rdquo;, you may ask. Do PhD student not have enough on their plate with study and research alone? Who reads these obscure blogs, anyways? It seems futile.
-I think these are legitimite concerns and yet I am starting a blog. So let me address these questions in my first posting, if anything to set some goals for my attempt at blogging.
+      <description>&amp;ldquo;Why should a PhD student write a blog?&amp;rdquo;, you might ask. Do PhD students not have enough on their plate with study and research alone? Who reads these obscure blogs, anyways? It seems futile.
+I think these are legitimite concerns and yet I have just started a blog. So let me address these questions in my first posting, if anything to set some goals for my attempt at blogging.
 It is true, my day is full enough.</description>
     </item>
     

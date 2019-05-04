@@ -6,9 +6,37 @@
     <description>Recent content in Tags on Simon Says!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Economic Theory</title>
+      <link>/tags/economic-theory/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/economic-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incentive Design</title>
+      <link>/tags/incentive-design/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/incentive-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Design</title>
+      <link>/tags/market-design/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/market-design/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
