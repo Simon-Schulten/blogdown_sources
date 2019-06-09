@@ -21,8 +21,8 @@ footnotereturnlinkcontents = "↩"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/SchultenSimon"
+    name = "Github"
+    url = "https://github.com/Simon-Schulten"
 
 [params]
     description = "A website built through Hugo and blogdown."
