@@ -1,10 +1,10 @@
 ---
-title: Impressum
-author: Simon C. Schulten
+title: "Impressum"
+author: "Simon C. Schulten"
 date: '2019-02-05'
 slug: impressum
-categories: []
 tags: []
+categories: []
 ---
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:  
