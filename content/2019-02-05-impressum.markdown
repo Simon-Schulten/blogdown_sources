@@ -7,19 +7,9 @@ categories: []
 tags: []
 ---
 
-Angaben gemäß § 5 TMG
-
-Simon Christian Schulten
-Gumbertstraße 186
-40229 Düsseldorf
-
-Kontakt:
-E-Mail: Simon[Unterstrich]Schulten[ät]web[Punkt]de
-
-Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-Simon Christian Schulten
-Gumbertstraße 186
-40229 Düsseldorf
+Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:  
+Simon Christian Schulten  
+[Kontakt](http://www.dice.hhu.de/diceteam/mitarbeiterinnen-und-mitarbeiter/doktorandinnen-und-doktoranden/simon-schulten-msc.html)
 
 Haftungsausschluss:
 
