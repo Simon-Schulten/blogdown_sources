@@ -17,10 +17,6 @@ footnotereturnlinkcontents = "↩"
     url = "/about/"
     weight = 2
 [[menu.main]]
-    name = "Blog"
-    url = "/"
-    weight = 1
-[[menu.main]]
     name = "Github"
     url = "https://github.com/Simon-Schulten"
 
