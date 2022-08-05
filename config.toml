@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/about"
 languageCode = "en-us"
 title = "Simon Says!"
 theme = "hugo-xmin"
