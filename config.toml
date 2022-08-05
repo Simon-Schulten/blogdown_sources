@@ -14,7 +14,7 @@ footnotereturnlinkcontents = "↩"
 
 [[menu.main]]
     name = "Home"
-    url = "/about/"
+    url = "/"
     weight = 2
 [[menu.main]]
     name = "Github"
