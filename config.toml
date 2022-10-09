@@ -25,7 +25,7 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [S.C. Schulten](http://simon-schulten.de) | [Impressum](http://simon-schulten.de/post/2019/02/05/impressum/)"
+    footer = "&copy; [S.C. Schulten](http://simon-schulten.de) | [Impressum](http://simon-schulten.de/impressum/)"
     author = "Simon C. Schulten"
 
 [privacy]
