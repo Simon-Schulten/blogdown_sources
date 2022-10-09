@@ -1,4 +1,5 @@
 ---
-title: Blogposts
+title: Simon Schulten
 ---
 
+My name is Simon Schulten and a PhD student at [DICE](http://www.dice.hhu.de/) where I do empirical research in behavioral economics and teach a lecture on methods in institutional economics. In my free time I enjoy bike rides, cooking and classical music.

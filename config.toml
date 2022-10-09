@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Simon Says!"
+title = "Simon Schulten"
 theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
@@ -16,9 +16,12 @@ footnotereturnlinkcontents = "↩"
     name = "Home"
     url = "/"
     weight = 2
+
 [[menu.main]]
-    name = "Github"
-    url = "https://github.com/Simon-Schulten"
+    name = "Research"
+    url = "/research"
+    weight = 2
+
 
 [params]
     description = "A website built through Hugo and blogdown."
