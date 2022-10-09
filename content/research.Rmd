@@ -1,0 +1,10 @@
+---
+title: "Research"
+author: "Simon C. Schulten"
+date: '2019-02-05'
+slug: research
+tags: []
+categories: []
+---
+
+Here I will detail my research projects.
